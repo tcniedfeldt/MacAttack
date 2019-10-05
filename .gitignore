@@ -1,0 +1,5 @@
+*.o
+*.exe
+*.txt
+.vscode/*
+.DS_Store
